@@ -200,7 +200,13 @@ Through this online store, Manavata aims to make natural products, traditional k
 
 🌐 Official Website: [https://manavata.org/](https://manavata.org/)
 
-📚 Online Courses: [https://manavata.org/courses/](https://manavata.org/courses/)
+📚 Course links:
+
+- Samskara Vidya: [info.manavata.org/value-education](https://info.manavata.org/value-education)
+- Yoga: [events.manavata.org/events/yoga-teacher-training-ytt-1-month-course](https://events.manavata.org/events/yoga-teacher-training-ytt-1-month-course/)
+- Holistic living: [manavata.org/education-2](https://manavata.org/education-2/)
+- Personal development: [manavata.org/health](https://manavata.org/health/)
+- Natural farming: [manavata.org/environment-2](https://manavata.org/environment-2/)
 
 ---
 
